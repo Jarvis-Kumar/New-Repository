@@ -1,0 +1,18 @@
+{
+  "name": "Vintage Film",
+  "description": "Classic vintage film look with warm tones and subtle sepia effect",
+  "filter": {
+    "brightness": 110,
+    "contrast": 120,
+    "saturate": 80,
+    "grayscale": 0,
+    "blur": 0,
+    "hueRotate": 15,
+    "sepia": 30,
+    "invert": 0
+  },
+  "category": "Vintage",
+  "tags": ["vintage", "film", "retro", "warm"],
+  "createdAt": "2024-01-15T10:30:00Z",
+  "author": "PresetFlow Team"
+}

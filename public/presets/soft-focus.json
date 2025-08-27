@@ -1,0 +1,18 @@
+{
+  "name": "Soft Focus Dream",
+  "description": "Dreamy soft focus effect with gentle blur and warm tones",
+  "filter": {
+    "brightness": 110,
+    "contrast": 95,
+    "saturate": 110,
+    "grayscale": 0,
+    "blur": 2,
+    "hueRotate": 0,
+    "sepia": 10,
+    "invert": 0
+  },
+  "category": "Artistic",
+  "tags": ["soft", "dreamy", "blur", "artistic"],
+  "createdAt": "2024-01-15T10:30:00Z",
+  "author": "PresetFlow Team"
+}

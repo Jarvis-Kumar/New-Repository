@@ -1,0 +1,18 @@
+{
+  "name": "Modern Photo Enhancer",
+  "description": "A vibrant preset that enhances photos with increased brightness, contrast, and saturation for a modern look",
+  "filter": {
+    "brightness": 110,
+    "contrast": 105,
+    "saturate": 120,
+    "grayscale": 0,
+    "blur": 0,
+    "hueRotate": 0,
+    "sepia": 0,
+    "invert": 0
+  },
+  "category": "Photography",
+  "tags": ["modern", "vibrant", "enhancement", "photo"],
+  "createdAt": "2024-01-15T10:30:00Z",
+  "author": "PresetFlow Team"
+}

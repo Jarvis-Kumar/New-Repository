@@ -1,0 +1,10 @@
+Given this preset:
+
+Name: {{name}}
+Type: {{type}}
+Tags: {{tags}}
+
+Recommend:
+- 2 suggested colors
+- 2 fonts
+- A visual style keyword (e.g., minimalist, playful, elegant)

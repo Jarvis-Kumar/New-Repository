@@ -1,0 +1,7 @@
+Generate a brand tone description for the following preset:
+
+Name: {{name}}
+Description: {{description}}
+Tags: {{tags}}
+
+Suggest a brand tone that fits this preset in 1-2 sentences.
