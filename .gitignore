@@ -1,31 +1,7 @@
-# Dependency directories
 node_modules/
-
-# Production build directories
 dist/
 build/
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# OS / Editor files
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-.vscode/
-.idea/
-
-# Cache
 .cache/
 .next/
-out/
-coverage/
+*.log
+.env
